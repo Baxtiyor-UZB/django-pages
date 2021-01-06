@@ -1,1 +1,1 @@
-# django-pages
+# django-message-box
